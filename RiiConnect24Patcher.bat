@@ -144,7 +144,7 @@ if %beta%==1 echo    `:ss-   ...   -ss-`
 if %beta%==1 echo  `:ss-`   .ysy     -ss:`   You are using an experimental version of this program.
 if %beta%==1 echo /yo.      .ysy       .oy:  That means that this version might contain experimental features
 if %beta%==1 echo :yo.      .hhh       .oy:  and bugs that might break your Wii/Wii U console or your computer.
-if %beta%==1 echo  `:ss-             -sy:` 
+if %beta%==1 echo  `:ss-             -sy:`   It doesn't even work on the Wii U.
 if %beta%==1 echo     -ss-  `\./   -ss-`     If you don't know what you're doing, please go to settings and go back to
 if %beta%==1 echo       -ss-     -ss-        stable branch of the patcher.
 if %beta%==1 echo         -sy: :ys-        
@@ -3105,4 +3105,5 @@ goto 2_manual
 
 
 :: The end - what did you expect? Join our Discord server! https://discord.gg/b4Y7jfD 
+:: Watch out for apps from other people! It might be a program that bricks your Wii!
 :: Find me as KcrPL#4625 ;)
